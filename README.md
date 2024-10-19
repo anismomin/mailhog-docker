@@ -16,3 +16,9 @@ port: 1025
 
 ```
 
+4. Open email inbox
+
+``` 
+http://localhost:8025
+
+```
